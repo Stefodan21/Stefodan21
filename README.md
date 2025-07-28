@@ -65,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Stefodan21/Stefodan21/assests/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Stefodan21/Stefodan21/blob/main/assests/snake.svg" alt="Snake animation" />
 
 ###
 
