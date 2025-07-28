@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hi, I'm Stefaan Davis</h1>
-
-###
-
-<h6 align="center">I'm an IT student at (Florida International University) 🎓 Honors College and a cloud engineer ☁️ from Jamaica 🇯🇲, passionate about AI 🤖 and machine learning 🧠. I specialize in Terraform, AWS, and CI/CD automation 🛠️ to build smart, scalable systems. When I’m not innovating in tech, I stay active 💪 through soccer ⚽, field hockey 🏑, and fitness, powered by code, grit, and island energy 🌴⚡.</h6>
+<div align="center">
+  <img height="200" src="fghgfh"  />
+</div>
 
 ###
 
@@ -61,9 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="366" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Stefodan21&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
