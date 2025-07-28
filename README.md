@@ -1,3 +1,8 @@
+<!-- Palm leaves: corners -->
+<div align="right" style="position: absolute; right:0; top:0;">
+  <img src="assests/vecteezy_tropical-coconut-palm-leaves-creating-a-vibrant-summer_57446139.png" width="160" alt="Palm Leaf Right" />
+</div>
+
 <h1 align="center">👋 Hi, I'm Stefaan Davis</h1>
 
 ###
@@ -116,5 +121,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
+<br>
+<!-- Sand image: footer -->
+<br>
+<div align="center">
+  <img src="assests/vecteezy_textured-beach-sand-dunes-golden-desert-landscape-summer_58444696.png" width="100%" alt="Beach Sand Dunes Footer" />
+</div>
 ###
