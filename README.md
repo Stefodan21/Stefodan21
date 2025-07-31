@@ -59,6 +59,7 @@
 ###
 
 <div align="center">
+  <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&border_radius=30&order=2" height="150" alt="languages graph"  >
   <img src="https://streak-stats.demolab.com?user=Stefodan21&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  >
   <img src="./metrics.plugin_repositories.svg" >
@@ -79,7 +80,6 @@
 
 
 <div align="center">
-  <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song"  />
 
   <a href="https://www.linkedin.com/in/stefaan-davis-4b6a32186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
