@@ -24,7 +24,7 @@ jobs:
 
           # General Config
           config_timezone: US/Eastern
-          template: repository
+          template: user 
           user: Stefodan21
           filename: metrics.repository.svg
 
@@ -66,6 +66,7 @@ jobs:
           plugin_activity_filter: push, pr, fork, ref/create, ref/delete
 
           plugin_wakatime: yes
+          plugin_wakatime_username: Stefodan21 
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
