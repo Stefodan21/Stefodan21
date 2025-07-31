@@ -97,6 +97,19 @@
 ###
 ## 📊 GitHub Metrics
 
-![Metrics](./metrics.repository.svg)
+<p align="center">
+  <img src="./metrics.plugin_steam.svg" width="30%">
+  <img src="./metrics.plugin_languages.svg" width="30%">
+  <img src="./metrics.plugin_isocalendar.svg" width="30%">
+  <img src="./metrics.plugin_stars.svg" width="30%">
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin_repositories.svg" width="30%">
+  <img src="./metrics.plugin_leetcode.svg" width="30%">
+  <img src="./metrics.plugin_activity.svg" width="30%">
+  <img src="./metrics.plugin_wakatime.svg" width="30%">
+</p>
+
 
 > 🏝️ Proudly built in Jamaica — powered by automation and tropical vibes 🌞
