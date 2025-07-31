@@ -13,8 +13,13 @@ jobs:
       - name: Metrics - Steam
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_steam.svg
+  
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_steam.svg
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561199601847108"
@@ -26,8 +31,12 @@ jobs:
       - name: Metrics - Languages
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_languages.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_languages.svg
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
@@ -36,32 +45,49 @@ jobs:
       - name: Metrics - Isocalendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_isocalendar.svg
+              
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_isocalendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
       - name: Metrics - Stars
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_stars.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_stars.svg
           plugin_stars: yes
           plugin_stars_limit: 3
 
       - name: Metrics - Repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_repositories.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_repositories.svg
           plugin_repositories: yes
           plugin_repositories_featured: Stefodan21/Forex-trading-bot, Stefodan21/Order_fulfillment_Project
 
       - name: Metrics - LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_leetcode.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_leetcode.svg
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_skills: default
@@ -69,8 +95,12 @@ jobs:
       - name: Metrics - Activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_activity.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_activity.svg
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 7
@@ -79,8 +109,12 @@ jobs:
       - name: Metrics - WakaTime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin_wakatime.svg
+          # Auth & Commit Settings
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          filename: metrics.plugin_wakatime.svg
           plugin_wakatime: yes
           plugin_wakatime_username: Stefodan21
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
