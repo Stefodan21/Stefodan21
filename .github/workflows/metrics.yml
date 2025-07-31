@@ -56,7 +56,7 @@ jobs:
           base: ""
           filename: metrics.plugin_isocalendar.svg
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: quarter
 
       - name: Metrics - Stars
         uses: lowlighter/metrics@latest
@@ -82,7 +82,7 @@ jobs:
           base: ""
           filename: metrics.plugin_repositories.svg
           plugin_repositories: yes
-          plugin_repositories_featured: Stefodan21/Forex-trading-bot, Stefodan21/Order_fulfillment_Project
+          plugin_repositories_featured: Stefodan21/Forex-trading-bot, Stefodan21/Order_fulfillment_Project, Stefodan21/Stefodan21.github.io
 
       - name: Metrics - LeetCode
         uses: lowlighter/metrics@latest
