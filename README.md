@@ -62,8 +62,8 @@
   <img src="./metrics.plugin_repositories.svg" >
   <img src="./metrics.plugin_activity.svg" >
   <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="./metrics.plugin_stars.svg" width="300" >
-  <img src="./assets/vecteezy_a-tall-coconut-palm-tree-stands-gracefully-against-a-clean_54719493.png" width="300">
+  <img src="./metrics.plugin_stars.svg" width="400" >
+  <img src="./assets/vecteezy_a-tall-coconut-palm-tree-stands-gracefully-against-a-clean_54719493.png" width="400">
   <img src="./metrics.plugin_steam.svg">
   <img src="./metrics.plugin_leetcode.svg" >
 </div>
