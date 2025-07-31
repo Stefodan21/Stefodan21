@@ -59,13 +59,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&border_radius=30&order=2" height="150" alt="languages graph"  >
-  <img src="https://streak-stats.demolab.com?user=Stefodan21&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  >
   <img src="./metrics.plugin_repositories.svg" >
   <img src="./metrics.plugin_activity.svg" >
   <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="./metrics.plugin_stars.svg" >
-  <img src="./metrics.plugin_isocalendar.svg">
+  <img src="./assets/vecteezy_a-tall-coconut-palm-tree-stands-gracefully-against-a-clean_54719493.png">
   <img src="./metrics.plugin_steam.svg">
   <img src="./metrics.plugin_leetcode.svg" >
 </div>
