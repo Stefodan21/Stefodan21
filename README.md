@@ -59,24 +59,28 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&border_radius=30&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Stefodan21&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefodan21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&border_radius=30&order=2" height="150" alt="languages graph"  >
+  <img src="https://streak-stats.demolab.com?user=Stefodan21&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  >
+  <img src="./metrics.plugin_repositories.svg" >
+  <img src="./metrics.plugin_activity.svg" >
+  <img src="./metrics.plugin_wakatime.svg" >
   <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="./metrics.plugin_stars.svg" >
+  <img src="./metrics.plugin_isocalendar.svg">
+  <img src="./metrics.plugin_steam.svg">
+  <img src="./metrics.plugin_leetcode.svg" >
 </div>
 
-###
+
 <div align="center">
 <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assests/snake.svg" alt="Snake animation" />
 </div>
-###
+
+
 
 <div align="center">
   <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song"  />
-</div>
 
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/stefaan-davis-4b6a32186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -94,22 +98,3 @@
   </a>
 </div>
 
-###
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./metrics.plugin_steam.svg" width="30%">
-  <img src="./metrics.plugin_languages.svg" width="30%">
-  <img src="./metrics.plugin_isocalendar.svg" width="30%">
-  <img src="./metrics.plugin_stars.svg" width="30%">
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin_repositories.svg" width="30%">
-  <img src="./metrics.plugin_leetcode.svg" width="30%">
-  <img src="./metrics.plugin_activity.svg" width="30%">
-  <img src="./metrics.plugin_wakatime.svg" width="30%">
-</p>
-
-
-> 🏝️ Proudly built in Jamaica — powered by automation and tropical vibes 🌞
