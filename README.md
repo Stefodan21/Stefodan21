@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="/assets/bannerdesign.png" />
+  <img src="/assets/bannernbdesign.png"  width="100%" height="auto"/>
 </div>
 
 ###
