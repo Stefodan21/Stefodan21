@@ -23,6 +23,8 @@ jobs:
           committer_message: "chore: update metrics"
 
           # General Config
+          config_display: columns
+          config_columns: 3
           config_timezone: US/Eastern
           template: classic
           user: Stefodan21
