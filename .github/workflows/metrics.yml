@@ -24,7 +24,7 @@ jobs:
 
           # General Config
           config_timezone: US/Eastern
-          template: user 
+          template: classic
           user: Stefodan21
           filename: metrics.repository.svg
 
