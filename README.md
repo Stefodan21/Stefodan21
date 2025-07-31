@@ -95,3 +95,8 @@
 </div>
 
 ###
+## 📊 GitHub Metrics
+
+![Metrics](./metrics.repository.svg)
+
+> 🏝️ Proudly built in Jamaica — powered by automation and tropical vibes 🌞
