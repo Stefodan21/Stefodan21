@@ -7,6 +7,7 @@ on:
 jobs:
   generate-metrics:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - name: Metrics - Lines
         uses: lowlighter/metrics@latest
