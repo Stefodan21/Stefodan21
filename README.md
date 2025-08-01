@@ -2,6 +2,26 @@
   <img src="/assets/bannernbdesign.png"  width="100%" height="auto"/>
 </div>
 
+
+###
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="./metrics.plugin_repositories.svg" width="421">
+  <img src="./assets/vecteezy_a-tall-coconut-palm-tree-stands-gracefully-against-a-clean_54719493.png" width="421">
+  <img src="./metrics.plugin_steam.svg" width="421">
+  <img src="./metrics.plugin_leetcode.svg" width="421">
+</div>
+  <div align="center">
+<img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
+</div>
+
+  <div align="center">
+  <img src="./metrics.plugin_stars.svg" width="421" >
+  <img src="./metrics.plugin_activity.svg" width="421">
+</div>
+
 <h2 align="center">🧠 Tech Stack & Tools</h2>
 
 <div align="center">
@@ -57,22 +77,8 @@
 </div>
 <hr>
 
-###
-
-<div align="center">
-  <img src="./metrics.plugin_repositories.svg" width="421">
-  <img src="./metrics.plugin_activity.svg" width="421">
-  <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="./metrics.plugin_stars.svg" width="421" >
-  <img src="./assets/vecteezy_a-tall-coconut-palm-tree-stands-gracefully-against-a-clean_54719493.png" width="421">
-  <img src="./metrics.plugin_steam.svg" width="421">
-  <img src="./metrics.plugin_leetcode.svg" width="421">
-</div>
 
 
-<div align="center">
-<img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 
