@@ -76,7 +76,7 @@
 
 
 <div align="center">
-  <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song"  />
+  <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song" width="100%" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/stefaan-davis-4b6a32186/" target="_blank">
