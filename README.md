@@ -2,12 +2,7 @@
   <img src="/assets/bannernbdesign.png"  width="100%" height="auto"/>
 </div>
 
-<hr>
-<p align="center">
-  Welcome to my GitHub! I'm a developer passionate about workflow automation, cloud architecture, and data-driven engineering. Here you'll find a collection of projects, tools, and experiments that reflect my growth and curiosity.
-</p>
-
-<hr>
+<h2 align="center">🧠 Tech Stack & Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
@@ -60,6 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32" alt="npm logo"  />
 </div>
+<hr>
 
 ###
 
