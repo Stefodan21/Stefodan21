@@ -8,18 +8,20 @@
   <img src="./metrics.plugin_repositories.svg" width="421">
   
   <img src="./metrics.plugin_activity.svg" width="421">
+  <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
-  <img href="https://www.credly.com/badges/98179a79-0e1d-4e7a-ab1f-3f9bab0b7712/public_url" src="./metrics.plugin_steam.svg" width="421">
-  <img href="https://www.credly.com/badges/987da471-6f86-4207-81dd-aabba2dd70f9/public_url" src="./metrics.plugin_leetcode.svg" width="421">
-</div>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Stefodan21&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-  <div align="center">
   <img src="./metrics.plugin_stars.svg" width="421" >
   <img src="./assets/apta.png" width="200">
   <img src="./assets/apce.png" width="200">
+
+</div>
+  <div align="center">
+      <img href="https://www.credly.com/badges/98179a79-0e1d-4e7a-ab1f-3f9bab0b7712/public_url" src="./metrics.plugin_steam.svg" width="421">
+      <img href="https://www.credly.com/badges/987da471-6f86-4207-81dd-aabba2dd70f9/public_url" src="./metrics.plugin_leetcode.svg" width="421">
+  </div>
+
+  <div align="center">
+
 </div>
 
 <h2 align="center">🧠 Tech Stack & Tools</h2>
