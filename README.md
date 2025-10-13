@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="/assets/bannernbdesign.png"  width="100%" height="auto"/>
-</div>
 
 
 ###
