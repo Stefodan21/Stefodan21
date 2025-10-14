@@ -9,10 +9,11 @@
   <img src="./metrics.plugin_repositories.svg" width="421">
   <img src="./assets/apta.png" width="200">
   <img src="./assets/apce.png" width="200">
+  <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
   <img src="./metrics.plugin_activity.svg" width="421">
   <img src="./metrics.plugin_stars.svg" width="421" >
 
-  <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
+
 
 </div>
   <div align="center">
