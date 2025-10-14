@@ -48,7 +48,6 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="32" alt="ubuntu logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32" alt="npm logo"  />
 </div>
 
 
