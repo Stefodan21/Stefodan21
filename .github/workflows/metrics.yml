@@ -57,7 +57,7 @@ jobs:
           base: ""
           filename: metrics.plugin_isocalendar.svg
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: quarter
+          plugin_isocalendar_duration: 180 days
 
       - name: Metrics - Stars
         uses: lowlighter/metrics@latest
