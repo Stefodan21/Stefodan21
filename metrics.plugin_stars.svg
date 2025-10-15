@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="356" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="323" class="">
     <defs>
         <style/>
     </defs>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-bedrock-agentcore-samples</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.</div>
@@ -123,10 +123,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stefodan21/Order_fulfillment_Project</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Cloud-native order fulfillment system built with Python and Flask, using AWS, Docker, and Terraform. Supports modular APIs, CI/CD via Pytest and GitHub Actions, and flexible deployment with either Render or GitHub-hosted workflows.</div>
+                                <div class="field description">Cloud-native order fulfillment system built with Python and Flask, using AWS, Docker, and Terraform.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
