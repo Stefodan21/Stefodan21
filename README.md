@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="./assets/hello.gif" width="100%" />
-</p>
+<div align="center">
+  <img src="./assets/welcome.gif" width="100%" >
+</div>
 
 <div align="center">
   <img src="./metrics.plugin_repositories.svg" width="421">
