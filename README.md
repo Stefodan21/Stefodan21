@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="./metrics.plugin_isocalender.svg" width="421">
+  <img src="./metrics.plugin_isocalendar.svg" width="421">
   <img src="./metrics.plugin_stars.svg" width="421" >
   <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
 </div>
