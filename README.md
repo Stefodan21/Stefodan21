@@ -1,11 +1,5 @@
 
 <div align="center">
-  <img src="./assets/welcome.gif" height="80" width="200">
-  
-  [![Stefaan Davis profile views](https://u8views.com/api/v1/github/profiles/212843963/views/day-week-month-total-count.svg)](https://u8views.com/github/Stefodan21)
-</div>
-
-<div align="center">
   <img src="./metrics.plugin_repositories.svg" width="421">
   <img src="./assets/apta.png" width="200">
   <img src="./assets/apce.png" width="200">
@@ -101,6 +95,10 @@
   <a href="stefaandavis21@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
+</div>
+<div align="center">
+  
+  [![Stefaan Davis profile views](https://u8views.com/api/v1/github/profiles/212843963/views/day-week-month-total-count.svg)](https://u8views.com/github/Stefodan21)
 </div>
 
 
