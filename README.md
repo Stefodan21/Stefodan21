@@ -75,11 +75,6 @@
 
 
 
-
-
-
-
-
 <div align="center">
   <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song" width="100%" />
 </div>
@@ -100,10 +95,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-<div align="center">
-  
-  [![Stefaan Davis profile views](https://u8views.com/api/v1/github/profiles/212843963/views/day-week-month-total-count.svg)](https://u8views.com/github/Stefodan21)
-</div>
+
 
 
 
