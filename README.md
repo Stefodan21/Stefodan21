@@ -5,8 +5,8 @@
 
 <div align="center">
   <img src="./metrics.plugin_repositories.svg" width="421">
-  <img src="./assets/apta.png" width="200">
-  <img src="./assets/apce.png" width="200">
+  <img src="./assets/hashicorp-certified-terraform-associate-004.png" width="200">
+  <img src="./assets/aws-certified-solutions-architect-associate.png" width="200">
 </div>
 
 <div align="center">
