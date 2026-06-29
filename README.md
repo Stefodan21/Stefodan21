@@ -11,8 +11,8 @@
   <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
 </div>
   <div align="center">
-      <img href="https://www.credly.com/badges/98179a79-0e1d-4e7a-ab1f-3f9bab0b7712/public_url" src="./metrics.plugin_steam.svg" width="421">
-      <img href="https://www.credly.com/badges/987da471-6f86-4207-81dd-aabba2dd70f9/public_url" src="./metrics.plugin_leetcode.svg" width="421">
+      <img href="https://www.credly.com/badges/4b68652f-cfbc-41ae-a709-bc209ec8e760/public_url" src="./metrics.plugin_steam.svg" width="421">
+      <img href="https://www.credly.com/badges/6b41f5bf-a64b-4872-b083-b5d3a8c45372/public_url" src="./metrics.plugin_leetcode.svg" width="421">
   </div>
 
   <div align="center">
