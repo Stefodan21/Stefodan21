@@ -74,10 +74,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://novatorem-delta-wine.vercel.app/api/spotify?theme=dark&rainbow=true&scan=false&spin=false" alt="Widget with the current Spotify song" width="100%" />
-</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/stefaan-davis-4b6a32306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
