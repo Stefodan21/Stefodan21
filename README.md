@@ -5,8 +5,12 @@
 
 <div align="center">
   <img src="./metrics.plugin_repositories.svg" width="421">
-  <img href="https://www.credly.com/badges/4b68652f-cfbc-41ae-a709-bc209ec8e760/public_url" src="./assets/hashicorp-certified-terraform-associate-004.png" width="200">
-  <img href="https://www.credly.com/badges/6b41f5bf-a64b-4872-b083-b5d3a8c45372/public_url" src="./assets/aws-certified-solutions-architect-associate.png" width="200">
+  <a href="https://www.credly.com/badges/4b68652f-cfbc-41ae-a709-bc209ec8e760/public_url" target="_blank">
+    <img src="./assets/hashicorp-certified-terraform-associate-004.png" width="200">
+  </a>
+  <a href="https://www.credly.com/badges/6b41f5bf-a64b-4872-b083-b5d3a8c45372/public_url" target="_blank">
+    <img src="./assets/aws-certified-solutions-architect-associate.png" width="200">
+  </a>
 </div>
 
 <div align="center">
