@@ -5,8 +5,8 @@
 
 <div align="center">
   <img src="./metrics.plugin_repositories.svg" width="421">
-  <img src="./assets/hashicorp-certified-terraform-associate-004.png" width="200">
-  <img src="./assets/aws-certified-solutions-architect-associate.png" width="200">
+  <img href="https://www.credly.com/badges/4b68652f-cfbc-41ae-a709-bc209ec8e760/public_url" src="./assets/hashicorp-certified-terraform-associate-004.png" width="200">
+  <img href="https://www.credly.com/badges/6b41f5bf-a64b-4872-b083-b5d3a8c45372/public_url" src="./assets/aws-certified-solutions-architect-associate.png" width="200">
 </div>
 
 <div align="center">
@@ -15,8 +15,8 @@
   <img src="https://github.com/Stefodan21/Stefodan21/blob/main/assets/snake.svg" alt="Snake animation" />
 </div>
   <div align="center">
-      <img href="https://www.credly.com/badges/4b68652f-cfbc-41ae-a709-bc209ec8e760/public_url" src="./metrics.plugin_steam.svg" width="421">
-      <img href="https://www.credly.com/badges/6b41f5bf-a64b-4872-b083-b5d3a8c45372/public_url" src="./metrics.plugin_leetcode.svg" width="421">
+      <img  src="./metrics.plugin_steam.svg" width="421">
+      <img  src="./metrics.plugin_leetcode.svg" width="421">
   </div>
 
   <div align="center">
