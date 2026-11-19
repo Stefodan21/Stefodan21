@@ -19,17 +19,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.078512396694215 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">51</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4114</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.237424058323208 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">53</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4115</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.146516393442624 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">39</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.820696721311474 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">41</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/976</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -46,9 +46,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3323232323232323 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.33198789101917253 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/990</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/991</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,11 +63,11 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x22</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x14</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x23</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x15</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x12</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x12</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x11</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x8</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x8</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x6</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x5</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Move Zeroes</div>
-                            <div class="date">2 Nov 2026</div>
+                            <div class="title">Greatest Common Divisor of Strings</div>
+                            <div class="date">18 Nov 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Reverse Words in a String</div>
-                            <div class="date">23 Oct 2026</div>
+                            <div class="title">Find the Difference of Two Arrays</div>
+                            <div class="date">17 Nov 2026</div>
                         </div>
                     </div>
                 </section>
